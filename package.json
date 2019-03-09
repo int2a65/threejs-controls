@@ -1,5 +1,5 @@
 {
-  "name": "threejs-controls",
+  "name": "threejs-controls-es6",
   "version": "1.0.0",
   "description": "threejs example controls with es6 modules",
   "main": "index.js",
