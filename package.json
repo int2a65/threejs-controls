@@ -2,7 +2,7 @@
   "name": "threejs-controls-es6",
   "version": "1.0.0",
   "description": "threejs example controls with es6 modules",
-  "main": "index.js",
+  "main": "./dist/bundle.cjs.js",
   "scripts": {
     "build": "rollup -c"
   },
