@@ -1,6 +1,6 @@
 {
   "name": "threejs-controls-es6",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "threejs example controls with es6 modules",
   "main": "./dist/bundle.cjs.js",
   "scripts": {
