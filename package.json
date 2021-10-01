@@ -14,7 +14,7 @@
   "author": "int2a",
   "license": "ISC",
   "dependencies": {
-    "three": "^0.101.1"
+    "three": "^0.132.2"
   },
   "devDependencies": {
     "@babel/core": "^7.1.2",
